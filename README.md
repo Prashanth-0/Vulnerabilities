@@ -58,16 +58,16 @@ databases, and networks
 The following are some examples of misconfiguration:
 
 An application running with debug enabled
-o Unnecessary administrative ports that are open for an application 
-o Running outdated software on the system
-o Running unnecessary services on a machine
-o Outbound connections to various Internet services
-o Using misconfigured SSL certificates or default certificates
-o Improperly authenticated external systems 
-o Incorrect folder permissions
-o Default accounts or passwords
-o Set up or configuration pages enabled
-o Disabling security settings and features
+- Unnecessary administrative ports that are open for an application 
+- Running outdated software on the system
+- Running unnecessary services on a machine
+- Outbound connections to various Internet services
+- Using misconfigured SSL certificates or default certificates
+- Improperly authenticated external systems 
+- Incorrect folder permissions
+- Default accounts or passwords
+- Set up or configuration pages enabled
+- Disabling security settings and features
 
 Attackers can easily detect these misconfigurations using scanning tools and then 
 exploit the backend systems. Therefore, the administrators must change the default 
