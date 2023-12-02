@@ -17,6 +17,6 @@
 
 [Common Weakness Enumeration (CWE)](https://cwe.mitre.org)
 
-
+[Exploit DB](https://www.exploit-db.com/)
 
 
