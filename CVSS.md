@@ -9,6 +9,7 @@
 |**High**| 7.0-8.9 |
 |**Critical**| 7.0-10|
 
+## Source for finding vulnerabilities
 
 [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org)
 
