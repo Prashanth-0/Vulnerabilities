@@ -139,5 +139,3 @@
 98. Unknown Vulnerabilities
 99. Unpatched Vulnerabilities
 100. Day-Zero Exploits
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
